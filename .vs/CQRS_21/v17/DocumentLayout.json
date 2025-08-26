@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\C#\\REST API\\CQRS_21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E41E1A-2F8D-4622-9444-206F1C502242}|CQRS_21\\CQRS_21.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_21\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E41E1A-2F8D-4622-9444-206F1C502242}|CQRS_21\\CQRS_21.csproj|solutionrelative:cqrs_21\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\cqrs\\handelers\\inseritemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\cqrs\\handelers\\inseritemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\cqrs\\commands\\insertitemscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\cqrs\\commands\\insertitemscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\cqrs\\handelers\\getitemslisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\cqrs\\handelers\\getitemslisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\reos\\itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\reos\\itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\cqrs\\queries\\getallitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\cqrs\\queries\\getallitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\reos\\iitemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\reos\\iitemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E41E1A-2F8D-4622-9444-206F1C502242}|CQRS_21\\CQRS_21.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E41E1A-2F8D-4622-9444-206F1C502242}|CQRS_21\\CQRS_21.csproj|solutionrelative:cqrs_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\migrations\\20250430175644_additemstable_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\migrations\\20250430175644_additemstable_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E41E1A-2F8D-4622-9444-206F1C502242}|CQRS_21\\CQRS_21.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1E41E1A-2F8D-4622-9444-206F1C502242}|CQRS_21\\CQRS_21.csproj|solutionrelative:cqrs_21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\data\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\data\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|d:\\programming\\c#\\rest api\\cqrs_21\\cqrs_lib\\mylib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809A8185-5EF4-4208-A481-A3DFE9253DF9}|CQRS_lib\\CQRS_lib.csproj|solutionrelative:cqrs_lib\\mylib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetItemsListHandler.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Handelers\\GetItemsListHandler.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\CQRS\\Handelers\\GetItemsListHandler.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Handelers\\GetItemsListHandler.cs",
+              "RelativeToolTip": "CQRS_lib\\CQRS\\Handelers\\GetItemsListHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:26:36.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_21\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "CQRS_21\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_21\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "CQRS_21\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:55:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsRepo.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Reos\\ItemsRepo.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\Reos\\ItemsRepo.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Reos\\ItemsRepo.cs",
+              "RelativeToolTip": "CQRS_lib\\Reos\\ItemsRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvycAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:46:13.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IItemsRepo.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Reos\\IItemsRepo.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\Reos\\IItemsRepo.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Reos\\IItemsRepo.cs",
+              "RelativeToolTip": "CQRS_lib\\Reos\\IItemsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:44:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InserItemHandler.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Handelers\\InserItemHandler.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\CQRS\\Handelers\\InserItemHandler.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Handelers\\InserItemHandler.cs",
+              "RelativeToolTip": "CQRS_lib\\CQRS\\Handelers\\InserItemHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:33:25.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertItemsCommand.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Commands\\InsertItemsCommand.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\CQRS\\Commands\\InsertItemsCommand.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Commands\\InsertItemsCommand.cs",
+              "RelativeToolTip": "CQRS_lib\\CQRS\\Commands\\InsertItemsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:18:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllItemsQuery.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Queries\\GetAllItemsQuery.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\CQRS\\Queries\\GetAllItemsQuery.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\CQRS\\Queries\\GetAllItemsQuery.cs",
+              "RelativeToolTip": "CQRS_lib\\CQRS\\Queries\\GetAllItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:16:17.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_21\\Program.cs",
+              "RelativeDocumentMoniker": "CQRS_21\\Program.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_21\\Program.cs",
+              "RelativeToolTip": "CQRS_21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:49:51.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250430175644_AddItemsTable_1.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Migrations\\20250430175644_AddItemsTable_1.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\Migrations\\20250430175644_AddItemsTable_1.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Migrations\\20250430175644_AddItemsTable_1.cs",
+              "RelativeToolTip": "CQRS_lib\\Migrations\\20250430175644_AddItemsTable_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:56:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_21\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRS_21\\appsettings.json",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_21\\appsettings.json",
+              "RelativeToolTip": "CQRS_21\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T17:48:55.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CQRS_lib\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:44:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Items.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Data\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\Data\\Models\\Items.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\Data\\Models\\Items.cs",
+              "RelativeToolTip": "CQRS_lib\\Data\\Models\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:40:55.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyLib.cs",
+              "DocumentMoniker": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\MyLib.cs",
+              "RelativeDocumentMoniker": "CQRS_lib\\MyLib.cs",
+              "ToolTip": "D:\\programming\\C#\\REST API\\CQRS_21\\CQRS_lib\\MyLib.cs",
+              "RelativeToolTip": "CQRS_lib\\MyLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:38:05.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

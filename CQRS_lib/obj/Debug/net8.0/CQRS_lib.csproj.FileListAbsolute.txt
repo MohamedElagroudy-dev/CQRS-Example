@@ -1,0 +1,14 @@
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\bin\Debug\net8.0\CQRS_lib.deps.json
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\bin\Debug\net8.0\CQRS_lib.runtimeconfig.json
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\bin\Debug\net8.0\CQRS_lib.dll
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\bin\Debug\net8.0\CQRS_lib.pdb
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.csproj.AssemblyReference.cache
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.AssemblyInfoInputs.cache
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.AssemblyInfo.cs
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.csproj.CoreCompileInputs.cache
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.dll
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\refint\CQRS_lib.dll
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.pdb
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\CQRS_lib.genruntimeconfig.cache
+D:\programming\C#\REST API\CQRS_21\CQRS_lib\obj\Debug\net8.0\ref\CQRS_lib.dll
