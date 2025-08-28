@@ -24,7 +24,3 @@ This separation makes the codebase:
 - **MediatR** → The glue that connects everything.  
 
 Basically: `Controller → MediatR → Handler → Done ✅`
-
----
-
-## Project Layout
